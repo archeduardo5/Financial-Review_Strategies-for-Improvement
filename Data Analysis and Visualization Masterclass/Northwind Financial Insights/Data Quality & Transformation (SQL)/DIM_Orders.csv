@@ -1,0 +1,519 @@
+﻿Order Id;Date;Quantity;Category Name;Product Name;City
+10248;04/07/1996;12;Dairy Products;Queso Cabrales;Helsinki
+10248;04/07/1996;10;Grains/Cereals;Singaporean Hokkien Fried Mee;Helsinki
+10248;04/07/1996;5;Dairy Products;Mozzarella di Giovanni;Helsinki
+10249;05/07/1996;9;Produce;Tofu;São Paulo
+10249;05/07/1996;40;Produce;Manjimup Dried Apples;São Paulo
+10250;08/07/1996;10;Seafood;Jack's New England Clam Chowder;Rio de Janeiro
+10250;08/07/1996;35;Produce;Manjimup Dried Apples;Rio de Janeiro
+10250;08/07/1996;15;Condiments;Louisiana Fiery Hot Pepper Sauce;Rio de Janeiro
+10251;08/07/1996;6;Grains/Cereals;Gustaf's Knäckebröd;Lyon
+10251;08/07/1996;15;Grains/Cereals;Ravioli Angelo;Lyon
+10251;08/07/1996;20;Condiments;Louisiana Fiery Hot Pepper Sauce;Lyon
+10252;09/07/1996;40;Confections;Sir Rodney's Marmalade;Charleroi
+10252;09/07/1996;25;Dairy Products;Geitost;Charleroi
+10252;09/07/1996;40;Dairy Products;Camembert Pierrot;Charleroi
+10253;10/07/1996;20;Dairy Products;Gorgonzola Telino;Rio de Janeiro
+10253;10/07/1996;42;Beverages;Chartreuse verte;Rio de Janeiro
+10253;10/07/1996;40;Confections;Maxilaku;Rio de Janeiro
+10254;11/07/1996;15;Beverages;Guaraná Fantástica;Bern
+10254;11/07/1996;21;Meat/Poultry;Pâté chinois;Bern
+10254;11/07/1996;21;Produce;Longlife Tofu;Bern
+10255;12/07/1996;20;Beverages;Chang;Genève
+10255;12/07/1996;35;Confections;Pavlova;Genève
+10255;12/07/1996;25;Seafood;Inlagd Sill;Genève
+10255;12/07/1996;30;Dairy Products;Raclette Courdavault;Genève
+10256;15/07/1996;15;Meat/Poultry;Perth Pasties;Resende
+10256;15/07/1996;12;Condiments;Original Frankfurter grüne Soße;Resende
+10257;16/07/1996;25;Confections;Schoggi Schokolade;San Cristóbal
+10257;16/07/1996;6;Beverages;Chartreuse verte;San Cristóbal
+10257;16/07/1996;15;Condiments;Original Frankfurter grüne Soße;San Cristóbal
+10258;17/07/1996;50;Beverages;Chang;Graz
+10258;17/07/1996;65;Condiments;Chef Anton's Gumbo Mix;Graz
+10258;17/07/1996;6;Dairy Products;Mascarpone Fabioli;Graz
+10259;18/07/1996;10;Confections;Sir Rodney's Scones;México D.F.
+10259;18/07/1996;1;Seafood;Gravad lax;México D.F.
+10260;19/07/1996;16;Seafood;Jack's New England Clam Chowder;Anchorage
+10260;19/07/1996;50;Grains/Cereals;Ravioli Angelo;Anchorage
+10260;19/07/1996;15;Confections;Tarte au sucre;Anchorage
+10260;19/07/1996;21;Beverages;Outback Lager;Anchorage
+10261;19/07/1996;20;Confections;Sir Rodney's Scones;Rio de Janeiro
+10261;19/07/1996;20;Beverages;Steeleye Stout;Rio de Janeiro
+10262;22/07/1996;12;Condiments;Chef Anton's Gumbo Mix;Albuquerque
+10262;22/07/1996;15;Produce;Uncle Bob's Organic Dried Pears;Albuquerque
+10262;22/07/1996;2;Grains/Cereals;Gnocchi di nonna Alice;Albuquerque
+10263;23/07/1996;60;Confections;Pavlova;Graz
+10263;23/07/1996;28;Beverages;Guaraná Fantástica;Graz
+10263;23/07/1996;60;Seafood;Nord-Ost Matjeshering;Graz
+10263;23/07/1996;36;Produce;Longlife Tofu;Graz
+10264;24/07/1996;35;Beverages;Chang;Bräcke
+10264;24/07/1996;25;Seafood;Jack's New England Clam Chowder;Bräcke
+10265;25/07/1996;30;Meat/Poultry;Alice Mutton;Strasbourg
+10265;25/07/1996;20;Beverages;Outback Lager;Strasbourg
+10266;26/07/1996;12;Dairy Products;Queso Manchego La Pastora;Oulu
+10267;29/07/1996;50;Seafood;Boston Crab Meat;München
+10267;29/07/1996;70;Dairy Products;Raclette Courdavault;München
+10267;29/07/1996;15;Beverages;Lakkalikööri;München
+10268;30/07/1996;10;Meat/Poultry;Thüringer Rostbratwurst;Caracas
+10268;30/07/1996;4;Dairy Products;Mozzarella di Giovanni;Caracas
+10269;31/07/1996;60;Dairy Products;Geitost;Seattle
+10269;31/07/1996;20;Dairy Products;Mozzarella di Giovanni;Seattle
+10270;01/08/1996;30;Seafood;Inlagd Sill;Oulu
+10270;01/08/1996;25;Beverages;Ipoh Coffee;Oulu
+10271;01/08/1996;24;Dairy Products;Geitost;Lander
+10272;02/08/1996;6;Confections;Sir Rodney's Marmalade;Albuquerque
+10272;02/08/1996;40;Dairy Products;Gorgonzola Telino;Albuquerque
+10272;02/08/1996;24;Dairy Products;Mozzarella di Giovanni;Albuquerque
+10273;05/08/1996;24;Seafood;Ikura;Cunewalde
+10273;05/08/1996;15;Dairy Products;Gorgonzola Telino;Cunewalde
+10273;05/08/1996;20;Dairy Products;Geitost;Cunewalde
+10273;05/08/1996;60;Seafood;Boston Crab Meat;Cunewalde
+10273;05/08/1996;33;Beverages;Lakkalikööri;Cunewalde
+10274;06/08/1996;20;Dairy Products;Fløtemysost;Reims
+10274;06/08/1996;7;Dairy Products;Mozzarella di Giovanni;Reims
+10275;07/08/1996;12;Beverages;Guaraná Fantástica;Bergamo
+10275;07/08/1996;6;Dairy Products;Raclette Courdavault;Bergamo
+10276;08/08/1996;15;Seafood;Ikura;México D.F.
+10276;08/08/1996;10;Seafood;Konbu;México D.F.
+10277;09/08/1996;20;Produce;Rössle Sauerkraut;Leipzig
+10277;09/08/1996;12;Confections;Tarte au sucre;Leipzig
+10278;12/08/1996;16;Condiments;Gula Malacca;Luleå
+10278;12/08/1996;15;Dairy Products;Raclette Courdavault;Luleå
+10278;12/08/1996;8;Condiments;Vegie-spread;Luleå
+10278;12/08/1996;25;Seafood;Röd Kaviar;Luleå
+10279;13/08/1996;15;Meat/Poultry;Alice Mutton;Frankfurt a.M.
+10280;14/08/1996;12;Beverages;Guaraná Fantástica;Luleå
+10280;14/08/1996;20;Meat/Poultry;Pâté chinois;Luleå
+10280;14/08/1996;30;Beverages;Rhönbräu Klosterbier;Luleå
+10281;14/08/1996;1;Confections;Teatime Chocolate Biscuits;Madrid
+10281;14/08/1996;6;Beverages;Guaraná Fantástica;Madrid
+10281;14/08/1996;4;Beverages;Steeleye Stout;Madrid
+10282;15/08/1996;6;Seafood;Nord-Ost Matjeshering;Madrid
+10282;15/08/1996;2;Grains/Cereals;Ravioli Angelo;Madrid
+10283;16/08/1996;20;Condiments;Genen Shouyu;Barquisimeto
+10283;16/08/1996;18;Confections;Teatime Chocolate Biscuits;Barquisimeto
+10283;16/08/1996;35;Dairy Products;Camembert Pierrot;Barquisimeto
+10283;16/08/1996;3;Dairy Products;Mozzarella di Giovanni;Barquisimeto
+10284;19/08/1996;15;Confections;Schoggi Schokolade;Frankfurt a.M.
+10284;19/08/1996;21;Condiments;Gula Malacca;Frankfurt a.M.
+10284;19/08/1996;20;Dairy Products;Camembert Pierrot;Frankfurt a.M.
+10284;19/08/1996;5;Beverages;Laughing Lumberjack Lager;Frankfurt a.M.
+10285;20/08/1996;45;Beverages;Chais;Cunewalde
+10285;20/08/1996;40;Seafood;Boston Crab Meat;Cunewalde
+10285;20/08/1996;36;Meat/Poultry;Perth Pasties;Cunewalde
+10286;21/08/1996;100;Beverages;Steeleye Stout;Cunewalde
+10286;21/08/1996;40;Confections;Tarte au sucre;Cunewalde
+10287;22/08/1996;40;Confections;Pavlova;Rio de Janeiro
+10287;22/08/1996;20;Beverages;Sasquatch Ale;Rio de Janeiro
+10287;22/08/1996;15;Seafood;Spegesild;Rio de Janeiro
+10288;23/08/1996;10;Meat/Poultry;Tourtière;Reggio Emilia
+10288;23/08/1996;3;Confections;Scottish Longbreads;Reggio Emilia
+10289;26/08/1996;30;Condiments;Aniseed Syrup;London
+10289;26/08/1996;9;Grains/Cereals;Wimmers gute Semmelknödel;London
+10290;27/08/1996;20;Condiments;Chef Anton's Gumbo Mix;São Paulo
+10290;27/08/1996;15;Meat/Poultry;Thüringer Rostbratwurst;São Paulo
+10290;27/08/1996;15;Confections;Maxilaku;São Paulo
+10290;27/08/1996;10;Condiments;Original Frankfurter grüne Soße;São Paulo
+10291;27/08/1996;20;Seafood;Konbu;Rio de Janeiro
+10291;27/08/1996;24;Condiments;Gula Malacca;Rio de Janeiro
+10291;27/08/1996;2;Produce;Manjimup Dried Apples;Rio de Janeiro
+10292;28/08/1996;20;Confections;Sir Rodney's Marmalade;São Paulo
+10293;29/08/1996;12;Seafood;Carnarvon Tigers;México D.F.
+10293;29/08/1996;10;Beverages;Guaraná Fantástica;México D.F.
+10293;29/08/1996;5;Condiments;Vegie-spread;México D.F.
+10293;29/08/1996;6;Beverages;Rhönbräu Klosterbier;México D.F.
+10294;30/08/1996;18;Beverages;Chais;Albuquerque
+10294;30/08/1996;15;Meat/Poultry;Alice Mutton;Albuquerque
+10294;30/08/1996;15;Beverages;Ipoh Coffee;Albuquerque
+10294;30/08/1996;21;Dairy Products;Camembert Pierrot;Albuquerque
+10294;30/08/1996;6;Beverages;Rhönbräu Klosterbier;Albuquerque
+10295;02/09/1996;4;Grains/Cereals;Gnocchi di nonna Alice;Reims
+10296;03/09/1996;12;Dairy Products;Queso Cabrales;Barquisimeto
+10296;03/09/1996;30;Confections;Pavlova;Barquisimeto
+10296;03/09/1996;15;Dairy Products;Gudbrandsdalsost;Barquisimeto
+10297;04/09/1996;60;Beverages;Chartreuse verte;Strasbourg
+10297;04/09/1996;20;Dairy Products;Mozzarella di Giovanni;Strasbourg
+10298;05/09/1996;40;Beverages;Chang;Cork
+10298;05/09/1996;40;Seafood;Inlagd Sill;Cork
+10298;05/09/1996;30;Dairy Products;Raclette Courdavault;Cork
+10298;05/09/1996;15;Confections;Tarte au sucre;Cork
+10299;06/09/1996;15;Confections;Teatime Chocolate Biscuits;Rio de Janeiro
+10299;06/09/1996;20;Beverages;Outback Lager;Rio de Janeiro
+10300;09/09/1996;30;Condiments;Louisiana Hot Spiced Okra;Bergamo
+10300;09/09/1996;20;Confections;Scottish Longbreads;Bergamo
+10301;09/09/1996;10;Seafood;Boston Crab Meat;Stuttgart
+10301;09/09/1996;20;Grains/Cereals;Gnocchi di nonna Alice;Stuttgart
+10302;10/09/1996;40;Meat/Poultry;Alice Mutton;Charleroi
+10302;10/09/1996;28;Produce;Rössle Sauerkraut;Charleroi
+10302;10/09/1996;12;Beverages;Ipoh Coffee;Charleroi
+10303;11/09/1996;40;Seafood;Boston Crab Meat;Sevilla
+10303;11/09/1996;30;Condiments;Louisiana Fiery Hot Pepper Sauce;Sevilla
+10303;11/09/1996;15;Confections;Scottish Longbreads;Sevilla
+10304;12/09/1996;30;Confections;Maxilaku;México D.F.
+10304;12/09/1996;10;Dairy Products;Raclette Courdavault;México D.F.
+10304;12/09/1996;2;Dairy Products;Fløtemysost;México D.F.
+10305;13/09/1996;25;Seafood;Carnarvon Tigers;Anchorage
+10305;13/09/1996;25;Meat/Poultry;Thüringer Rostbratwurst;Anchorage
+10305;13/09/1996;30;Beverages;Chartreuse verte;Anchorage
+10306;16/09/1996;10;Seafood;Nord-Ost Matjeshering;Madrid
+10306;16/09/1996;10;Meat/Poultry;Perth Pasties;Madrid
+10306;16/09/1996;5;Meat/Poultry;Tourtière;Madrid
+10307;17/09/1996;10;Confections;Tarte au sucre;Portland
+10307;17/09/1996;3;Confections;Scottish Longbreads;Portland
+10308;18/09/1996;1;Dairy Products;Gudbrandsdalsost;México D.F.
+10308;18/09/1996;5;Beverages;Outback Lager;México D.F.
+10309;19/09/1996;20;Condiments;Chef Anton's Cajun Seasoning;Cork
+10309;19/09/1996;30;Condiments;Grandma's Boysenberry Spread;Cork
+10309;19/09/1996;2;Grains/Cereals;Singaporean Hokkien Fried Mee;Cork
+10309;19/09/1996;20;Beverages;Ipoh Coffee;Cork
+10309;19/09/1996;3;Dairy Products;Fløtemysost;Cork
+10310;20/09/1996;10;Confections;Pavlova;Portland
+10310;20/09/1996;5;Confections;Tarte au sucre;Portland
+10311;20/09/1996;6;Grains/Cereals;Singaporean Hokkien Fried Mee;Nantes
+10311;20/09/1996;7;Dairy Products;Gudbrandsdalsost;Nantes
+10312;23/09/1996;4;Produce;Rössle Sauerkraut;Stuttgart
+10312;23/09/1996;24;Beverages;Ipoh Coffee;Stuttgart
+10312;23/09/1996;20;Meat/Poultry;Perth Pasties;Stuttgart
+10312;23/09/1996;10;Beverages;Rhönbräu Klosterbier;Stuttgart
+10313;24/09/1996;12;Seafood;Inlagd Sill;Cunewalde
+10314;25/09/1996;40;Dairy Products;Mascarpone Fabioli;Albuquerque
+10314;25/09/1996;30;Seafood;Escargots de Bourgogne;Albuquerque
+10314;25/09/1996;25;Confections;Tarte au sucre;Albuquerque
+10315;26/09/1996;14;Beverages;Sasquatch Ale;Cowes
+10315;26/09/1996;30;Beverages;Outback Lager;Cowes
+10316;27/09/1996;10;Seafood;Jack's New England Clam Chowder;Albuquerque
+10316;27/09/1996;70;Confections;Tarte au sucre;Albuquerque
+10317;30/09/1996;20;Beverages;Chais;Portland
+10318;01/10/1996;20;Seafood;Jack's New England Clam Chowder;Cowes
+10318;01/10/1996;6;Beverages;Lakkalikööri;Cowes
+10319;02/10/1996;8;Meat/Poultry;Alice Mutton;México D.F.
+10319;02/10/1996;14;Produce;Rössle Sauerkraut;México D.F.
+10319;02/10/1996;30;Beverages;Lakkalikööri;México D.F.
+10320;03/10/1996;30;Dairy Products;Fløtemysost;Oulu
+10321;03/10/1996;10;Beverages;Steeleye Stout;Cowes
+10322;04/10/1996;20;Grains/Cereals;Filo Mix;México D.F.
+10323;07/10/1996;5;Condiments;Genen Shouyu;Brandenburg
+10323;07/10/1996;4;Confections;NuNuCa Nuß-Nougat-Creme;Brandenburg
+10323;07/10/1996;4;Beverages;Chartreuse verte;Brandenburg
+10324;08/10/1996;21;Confections;Pavlova;Boise
+10324;08/10/1996;70;Beverages;Steeleye Stout;Boise
+10324;08/10/1996;30;Seafood;Spegesild;Boise
+10324;08/10/1996;40;Dairy Products;Raclette Courdavault;Boise
+10324;08/10/1996;80;Condiments;Vegie-spread;Boise
+10325;09/10/1996;6;Condiments;Grandma's Boysenberry Spread;Brandenburg
+10325;09/10/1996;12;Seafood;Konbu;Brandenburg
+10325;09/10/1996;9;Produce;Tofu;Brandenburg
+10325;09/10/1996;4;Dairy Products;Gorgonzola Telino;Brandenburg
+10325;09/10/1996;40;Dairy Products;Mozzarella di Giovanni;Brandenburg
+10326;10/10/1996;24;Condiments;Chef Anton's Cajun Seasoning;Madrid
+10326;10/10/1996;16;Grains/Cereals;Ravioli Angelo;Madrid
+10326;10/10/1996;50;Beverages;Rhönbräu Klosterbier;Madrid
+10327;11/10/1996;25;Beverages;Chang;Bräcke
+10327;11/10/1996;50;Dairy Products;Queso Cabrales;Bräcke
+10327;11/10/1996;35;Seafood;Nord-Ost Matjeshering;Bräcke
+10327;11/10/1996;30;Seafood;Escargots de Bourgogne;Bräcke
+10328;14/10/1996;9;Dairy Products;Raclette Courdavault;Lisboa
+10328;14/10/1996;40;Condiments;Louisiana Fiery Hot Pepper Sauce;Lisboa
+10328;14/10/1996;10;Confections;Scottish Longbreads;Lisboa
+10329;15/10/1996;10;Confections;Teatime Chocolate Biscuits;Lander
+10329;15/10/1996;8;Seafood;Nord-Ost Matjeshering;Lander
+10329;15/10/1996;20;Beverages;Côte de Blaye;Lander
+10329;15/10/1996;12;Grains/Cereals;Gnocchi di nonna Alice;Lander
+10330;16/10/1996;50;Confections;Gumbär Gummibärchen;Barquisimeto
+10330;16/10/1996;25;Dairy Products;Mozzarella di Giovanni;Barquisimeto
+10331;16/10/1996;15;Meat/Poultry;Tourtière;Marseille
+10332;17/10/1996;40;Seafood;Carnarvon Tigers;Montréal
+10332;17/10/1996;10;Grains/Cereals;Singaporean Hokkien Fried Mee;Montréal
+10332;17/10/1996;16;Confections;Zaanse koeken;Montréal
+10333;18/10/1996;10;Produce;Tofu;Oulu
+10333;18/10/1996;10;Confections;Sir Rodney's Scones;Oulu
+10333;18/10/1996;40;Dairy Products;Fløtemysost;Oulu
+10334;21/10/1996;8;Grains/Cereals;Filo Mix;Lyon
+10334;21/10/1996;10;Confections;Scottish Longbreads;Lyon
+10335;22/10/1996;7;Beverages;Chang;Cork
+10335;22/10/1996;25;Dairy Products;Gorgonzola Telino;Cork
+10335;22/10/1996;6;Dairy Products;Mascarpone Fabioli;Cork
+10335;22/10/1996;48;Produce;Manjimup Dried Apples;Cork
+10336;23/10/1996;18;Condiments;Chef Anton's Cajun Seasoning;Lisboa
+10337;24/10/1996;40;Grains/Cereals;Tunnbröd;München
+10337;24/10/1996;24;Confections;Gumbär Gummibärchen;München
+10337;24/10/1996;20;Seafood;Inlagd Sill;München
+10337;24/10/1996;28;Seafood;Gravad lax;München
+10337;24/10/1996;25;Dairy Products;Mozzarella di Giovanni;München
+10338;25/10/1996;20;Meat/Poultry;Alice Mutton;Anchorage
+10338;25/10/1996;15;Seafood;Nord-Ost Matjeshering;Anchorage
+10339;28/10/1996;10;Condiments;Chef Anton's Cajun Seasoning;Montréal
+10339;28/10/1996;70;Meat/Poultry;Alice Mutton;Montréal
+10339;28/10/1996;28;Confections;Tarte au sucre;Montréal
+10340;29/10/1996;20;Seafood;Carnarvon Tigers;Marseille
+10340;29/10/1996;12;Seafood;Jack's New England Clam Chowder;Marseille
+10340;29/10/1996;40;Beverages;Ipoh Coffee;Marseille
+10341;29/10/1996;8;Dairy Products;Geitost;København
+10341;29/10/1996;9;Dairy Products;Raclette Courdavault;København
+10342;30/10/1996;24;Beverages;Chang;München
+10342;30/10/1996;56;Dairy Products;Gorgonzola Telino;München
+10342;30/10/1996;40;Seafood;Inlagd Sill;München
+10342;30/10/1996;40;Meat/Poultry;Pâté chinois;München
+10343;31/10/1996;50;Grains/Cereals;Wimmers gute Semmelknödel;Frankfurt a.M.
+10343;31/10/1996;4;Confections;Scottish Longbreads;Frankfurt a.M.
+10343;31/10/1996;15;Beverages;Lakkalikööri;Frankfurt a.M.
+10344;01/11/1996;35;Condiments;Chef Anton's Cajun Seasoning;Seattle
+10344;01/11/1996;70;Condiments;Northwoods Cranberry Sauce;Seattle
+10345;04/11/1996;70;Condiments;Northwoods Cranberry Sauce;Cunewalde
+10345;04/11/1996;80;Confections;Teatime Chocolate Biscuits;Cunewalde
+10345;04/11/1996;9;Grains/Cereals;Singaporean Hokkien Fried Mee;Cunewalde
+10346;05/11/1996;36;Meat/Poultry;Alice Mutton;Albuquerque
+10346;05/11/1996;20;Grains/Cereals;Gnocchi di nonna Alice;Albuquerque
+10347;06/11/1996;10;Confections;NuNuCa Nuß-Nougat-Creme;São Paulo
+10347;06/11/1996;50;Beverages;Chartreuse verte;São Paulo
+10347;06/11/1996;4;Seafood;Boston Crab Meat;São Paulo
+10347;06/11/1996;6;Beverages;Rhönbräu Klosterbier;São Paulo
+10348;07/11/1996;15;Beverages;Chais;Stuttgart
+10348;07/11/1996;25;Grains/Cereals;Tunnbröd;Stuttgart
+10349;08/11/1996;24;Meat/Poultry;Tourtière;Lander
+10350;11/11/1996;15;Confections;Valkoinen suklaa;Toulouse
+10350;11/11/1996;18;Dairy Products;Gudbrandsdalsost;Toulouse
+10351;11/11/1996;20;Beverages;Côte de Blaye;Graz
+10351;11/11/1996;13;Seafood;Jack's New England Clam Chowder;Graz
+10351;11/11/1996;77;Condiments;Gula Malacca;Graz
+10351;11/11/1996;10;Condiments;Louisiana Fiery Hot Pepper Sauce;Graz
+10352;12/11/1996;10;Beverages;Guaraná Fantástica;Lisboa
+10352;12/11/1996;20;Meat/Poultry;Tourtière;Lisboa
+10353;13/11/1996;12;Dairy Products;Queso Cabrales;Salzburg
+10353;13/11/1996;50;Beverages;Côte de Blaye;Salzburg
+10354;14/11/1996;12;Beverages;Chais;México D.F.
+10354;14/11/1996;4;Meat/Poultry;Thüringer Rostbratwurst;México D.F.
+10355;15/11/1996;25;Beverages;Guaraná Fantástica;London
+10355;15/11/1996;25;Grains/Cereals;Ravioli Angelo;London
+10356;18/11/1996;30;Dairy Products;Gorgonzola Telino;Stuttgart
+10356;18/11/1996;12;Meat/Poultry;Pâté chinois;Stuttgart
+10356;18/11/1996;20;Dairy Products;Gudbrandsdalsost;Stuttgart
+10357;19/11/1996;30;Seafood;Ikura;Barquisimeto
+10357;19/11/1996;16;Confections;Gumbär Gummibärchen;Barquisimeto
+10357;19/11/1996;8;Dairy Products;Camembert Pierrot;Barquisimeto
+10358;20/11/1996;10;Beverages;Guaraná Fantástica;Toulouse
+10358;20/11/1996;10;Beverages;Sasquatch Ale;Toulouse
+10358;20/11/1996;20;Seafood;Inlagd Sill;Toulouse
+10359;21/11/1996;56;Confections;Pavlova;London
+10359;21/11/1996;70;Dairy Products;Gorgonzola Telino;London
+10359;21/11/1996;80;Dairy Products;Camembert Pierrot;London
+10360;22/11/1996;30;Produce;Rössle Sauerkraut;Strasbourg
+10360;22/11/1996;35;Meat/Poultry;Thüringer Rostbratwurst;Strasbourg
+10360;22/11/1996;10;Beverages;Côte de Blaye;Strasbourg
+10360;22/11/1996;35;Confections;Maxilaku;Strasbourg
+10360;22/11/1996;28;Meat/Poultry;Tourtière;Strasbourg
+10361;22/11/1996;54;Beverages;Chartreuse verte;Cunewalde
+10361;22/11/1996;55;Dairy Products;Camembert Pierrot;Cunewalde
+10362;25/11/1996;50;Confections;NuNuCa Nuß-Nougat-Creme;Marseille
+10362;25/11/1996;20;Produce;Manjimup Dried Apples;Marseille
+10362;25/11/1996;24;Meat/Poultry;Tourtière;Marseille
+10363;26/11/1996;20;Dairy Products;Gorgonzola Telino;Aachen
+10363;26/11/1996;12;Beverages;Rhönbräu Klosterbier;Aachen
+10363;26/11/1996;12;Beverages;Lakkalikööri;Aachen
+10364;26/11/1996;30;Dairy Products;Gudbrandsdalsost;London
+10364;26/11/1996;5;Dairy Products;Fløtemysost;London
+10365;27/11/1996;24;Dairy Products;Queso Cabrales;México D.F.
+10366;28/11/1996;5;Condiments;Louisiana Fiery Hot Pepper Sauce;Barcelona
+10366;28/11/1996;5;Condiments;Original Frankfurter grüne Soße;Barcelona
+10367;28/11/1996;36;Beverages;Sasquatch Ale;Århus
+10367;28/11/1996;18;Meat/Poultry;Tourtière;Århus
+10367;28/11/1996;15;Condiments;Louisiana Fiery Hot Pepper Sauce;Århus
+10367;28/11/1996;7;Condiments;Original Frankfurter grüne Soße;Århus
+10368;29/11/1996;5;Confections;Sir Rodney's Scones;Graz
+10368;29/11/1996;13;Produce;Rössle Sauerkraut;Graz
+10368;29/11/1996;25;Grains/Cereals;Ravioli Angelo;Graz
+10368;29/11/1996;35;Grains/Cereals;Wimmers gute Semmelknödel;Graz
+10369;02/12/1996;20;Meat/Poultry;Thüringer Rostbratwurst;Lander
+10369;02/12/1996;18;Grains/Cereals;Gnocchi di nonna Alice;Lander
+10370;03/12/1996;15;Beverages;Chais;Bern
+10370;03/12/1996;30;Grains/Cereals;Wimmers gute Semmelknödel;Bern
+10370;03/12/1996;20;Produce;Longlife Tofu;Bern
+10371;03/12/1996;6;Seafood;Inlagd Sill;Toulouse
+10372;04/12/1996;12;Confections;Sir Rodney's Marmalade;São Paulo
+10372;04/12/1996;40;Beverages;Côte de Blaye;São Paulo
+10372;04/12/1996;70;Dairy Products;Camembert Pierrot;São Paulo
+10372;04/12/1996;42;Dairy Products;Mozzarella di Giovanni;São Paulo
+10373;05/12/1996;80;Seafood;Escargots de Bourgogne;Cork
+10373;05/12/1996;50;Dairy Products;Fløtemysost;Cork
+10374;05/12/1996;30;Dairy Products;Gorgonzola Telino;Walla
+10374;05/12/1996;15;Seafood;Escargots de Bourgogne;Walla
+10375;06/12/1996;15;Produce;Tofu;Elgin
+10375;06/12/1996;10;Meat/Poultry;Tourtière;Elgin
+10376;09/12/1996;42;Dairy Products;Gorgonzola Telino;Montréal
+10377;09/12/1996;20;Produce;Rössle Sauerkraut;London
+10377;09/12/1996;20;Beverages;Chartreuse verte;London
+10378;10/12/1996;6;Dairy Products;Fløtemysost;Bräcke
+10379;11/12/1996;8;Seafood;Jack's New England Clam Chowder;Rio de Janeiro
+10379;11/12/1996;16;Condiments;Vegie-spread;Rio de Janeiro
+10379;11/12/1996;20;Condiments;Louisiana Fiery Hot Pepper Sauce;Rio de Janeiro
+10380;12/12/1996;18;Seafood;Nord-Ost Matjeshering;Cork
+10380;12/12/1996;20;Meat/Poultry;Perth Pasties;Cork
+10380;12/12/1996;6;Dairy Products;Camembert Pierrot;Cork
+10380;12/12/1996;30;Beverages;Outback Lager;Cork
+10381;12/12/1996;14;Produce;Longlife Tofu;Barquisimeto
+10382;13/12/1996;32;Condiments;Chef Anton's Gumbo Mix;Graz
+10382;13/12/1996;9;Seafood;Carnarvon Tigers;Graz
+10382;13/12/1996;14;Meat/Poultry;Thüringer Rostbratwurst;Graz
+10382;13/12/1996;60;Dairy Products;Geitost;Graz
+10382;13/12/1996;50;Produce;Longlife Tofu;Graz
+10383;16/12/1996;20;Seafood;Konbu;London
+10383;16/12/1996;15;Confections;Valkoinen suklaa;London
+10383;16/12/1996;20;Grains/Cereals;Gnocchi di nonna Alice;London
+10384;16/12/1996;28;Confections;Sir Rodney's Marmalade;Luleå
+10384;16/12/1996;15;Dairy Products;Camembert Pierrot;Luleå
+10385;17/12/1996;10;Produce;Uncle Bob's Organic Dried Pears;Lander
+10385;17/12/1996;20;Dairy Products;Camembert Pierrot;Lander
+10385;17/12/1996;8;Confections;Scottish Longbreads;Lander
+10386;18/12/1996;15;Beverages;Guaraná Fantástica;São Paulo
+10386;18/12/1996;10;Beverages;Sasquatch Ale;São Paulo
+10387;18/12/1996;15;Beverages;Guaraná Fantástica;Stavern
+10387;18/12/1996;6;Produce;Rössle Sauerkraut;Stavern
+10387;18/12/1996;12;Dairy Products;Raclette Courdavault;Stavern
+10387;18/12/1996;15;Dairy Products;Fløtemysost;Stavern
+10388;19/12/1996;15;Seafood;Røgede sild;London
+10388;19/12/1996;20;Grains/Cereals;Filo Mix;London
+10388;19/12/1996;40;Meat/Poultry;Perth Pasties;London
+10389;20/12/1996;16;Seafood;Ikura;Tsawassen
+10389;20/12/1996;15;Meat/Poultry;Pâté chinois;Tsawassen
+10389;20/12/1996;20;Confections;Tarte au sucre;Tsawassen
+10389;20/12/1996;30;Beverages;Outback Lager;Tsawassen
+10390;23/12/1996;60;Dairy Products;Gorgonzola Telino;Graz
+10390;23/12/1996;40;Beverages;Steeleye Stout;Graz
+10390;23/12/1996;45;Seafood;Spegesild;Graz
+10390;23/12/1996;24;Dairy Products;Mozzarella di Giovanni;Graz
+10391;23/12/1996;18;Seafood;Konbu;Aachen
+10392;24/12/1996;50;Dairy Products;Gudbrandsdalsost;Salzburg
+10393;25/12/1996;25;Beverages;Chang;Boise
+10393;25/12/1996;42;Produce;Tofu;Boise
+10393;25/12/1996;7;Confections;NuNuCa Nuß-Nougat-Creme;Boise
+10393;25/12/1996;70;Confections;Gumbär Gummibärchen;Boise
+10393;25/12/1996;32;Dairy Products;Gorgonzola Telino;Boise
+10394;25/12/1996;10;Seafood;Konbu;Elgin
+10394;25/12/1996;10;Confections;Tarte au sucre;Elgin
+10395;26/12/1996;28;Seafood;Spegesild;San Cristóbal
+10395;26/12/1996;70;Meat/Poultry;Perth Pasties;San Cristóbal
+10395;26/12/1996;8;Dairy Products;Gudbrandsdalsost;San Cristóbal
+10396;27/12/1996;40;Grains/Cereals;Tunnbröd;München
+10396;27/12/1996;60;Dairy Products;Fløtemysost;München
+10396;27/12/1996;21;Dairy Products;Mozzarella di Giovanni;München
+10397;27/12/1996;10;Confections;Sir Rodney's Scones;Lisboa
+10397;27/12/1996;18;Produce;Manjimup Dried Apples;Lisboa
+10398;30/12/1996;30;Beverages;Steeleye Stout;Boise
+10398;30/12/1996;120;Meat/Poultry;Pâté chinois;Boise
+10399;31/12/1996;60;Confections;Scottish Longbreads;Århus
+10399;31/12/1996;30;Dairy Products;Fløtemysost;Århus
+10399;31/12/1996;35;Beverages;Lakkalikööri;Århus
+10399;31/12/1996;14;Condiments;Original Frankfurter grüne Soße;Århus
+10400;01/01/1997;21;Meat/Poultry;Thüringer Rostbratwurst;London
+10400;01/01/1997;35;Beverages;Steeleye Stout;London
+10400;01/01/1997;30;Confections;Maxilaku;London
+10401;01/01/1997;18;Seafood;Nord-Ost Matjeshering;Albuquerque
+10401;01/01/1997;70;Grains/Cereals;Gnocchi di nonna Alice;Albuquerque
+10401;01/01/1997;20;Condiments;Louisiana Fiery Hot Pepper Sauce;Albuquerque
+10401;01/01/1997;60;Dairy Products;Fløtemysost;Albuquerque
+10402;02/01/1997;60;Grains/Cereals;Tunnbröd;Graz
+10402;02/01/1997;65;Condiments;Vegie-spread;Graz
+10403;03/01/1997;21;Confections;Pavlova;Graz
+10403;03/01/1997;70;Confections;Chocolade;Graz
+10404;03/01/1997;30;Confections;Gumbär Gummibärchen;Bergamo
+10404;03/01/1997;40;Grains/Cereals;Singaporean Hokkien Fried Mee;Bergamo
+10404;03/01/1997;30;Confections;Maxilaku;Bergamo
+10405;06/01/1997;50;Condiments;Aniseed Syrup;I. de Margarita
+10406;07/01/1997;10;Beverages;Chais;São Paulo
+10406;07/01/1997;30;Confections;Sir Rodney's Scones;São Paulo
+10406;07/01/1997;42;Produce;Rössle Sauerkraut;São Paulo
+10406;07/01/1997;5;Seafood;Inlagd Sill;São Paulo
+10406;07/01/1997;2;Seafood;Boston Crab Meat;São Paulo
+10407;07/01/1997;30;Dairy Products;Queso Cabrales;Köln
+10407;07/01/1997;15;Dairy Products;Gudbrandsdalsost;Köln
+10407;07/01/1997;15;Dairy Products;Fløtemysost;Köln
+10408;08/01/1997;10;Seafood;Gravad lax;Lille
+10408;08/01/1997;6;Meat/Poultry;Tourtière;Lille
+10408;08/01/1997;35;Confections;Tarte au sucre;Lille
+10409;09/01/1997;12;Produce;Tofu;Buenos Aires
+10409;09/01/1997;12;Confections;Sir Rodney's Scones;Buenos Aires
+10410;10/01/1997;49;Dairy Products;Geitost;Tsawassen
+10410;10/01/1997;16;Dairy Products;Raclette Courdavault;Tsawassen
+10411;10/01/1997;25;Seafood;Jack's New England Clam Chowder;Tsawassen
+10411;10/01/1997;40;Condiments;Gula Malacca;Tsawassen
+10411;10/01/1997;9;Dairy Products;Raclette Courdavault;Tsawassen
+10412;13/01/1997;20;Produce;Tofu;Oulu
+10413;14/01/1997;24;Beverages;Chais;Toulouse
+10413;14/01/1997;40;Confections;Tarte au sucre;Toulouse
+10413;14/01/1997;14;Beverages;Lakkalikööri;Toulouse
+10414;14/01/1997;18;Confections;Teatime Chocolate Biscuits;São Paulo
+10414;14/01/1997;50;Dairy Products;Geitost;São Paulo
+10415;15/01/1997;2;Meat/Poultry;Alice Mutton;Elgin
+10415;15/01/1997;20;Dairy Products;Geitost;Elgin
+10416;16/01/1997;20;Confections;Teatime Chocolate Biscuits;Oulu
+10416;16/01/1997;10;Meat/Poultry;Perth Pasties;Oulu
+10416;16/01/1997;20;Grains/Cereals;Ravioli Angelo;Oulu
+10417;16/01/1997;50;Beverages;Côte de Blaye;København
+10417;16/01/1997;2;Seafood;Spegesild;København
+10417;16/01/1997;36;Confections;Scottish Longbreads;København
+10417;16/01/1997;35;Condiments;Original Frankfurter grüne Soße;København
+10418;17/01/1997;60;Beverages;Chang;Cunewalde
+10418;17/01/1997;55;Confections;Zaanse koeken;Cunewalde
+10418;17/01/1997;16;Condiments;Sirop d'érable;Cunewalde
+10418;17/01/1997;15;Produce;Longlife Tofu;Cunewalde
+10419;20/01/1997;60;Dairy Products;Camembert Pierrot;Genève
+10419;20/01/1997;20;Dairy Products;Gudbrandsdalsost;Genève
+10420;21/01/1997;20;Meat/Poultry;Mishi Kobe Niku;Resende
+10420;21/01/1997;2;Seafood;Konbu;Resende
+10420;21/01/1997;8;Beverages;Outback Lager;Resende
+10420;21/01/1997;20;Seafood;Röd Kaviar;Resende
+10421;21/01/1997;4;Confections;Teatime Chocolate Biscuits;Rio de Janeiro
+10421;21/01/1997;30;Confections;Gumbär Gummibärchen;Rio de Janeiro
+10421;21/01/1997;15;Meat/Poultry;Perth Pasties;Rio de Janeiro
+10421;21/01/1997;10;Condiments;Original Frankfurter grüne Soße;Rio de Janeiro
+10422;22/01/1997;2;Confections;Gumbär Gummibärchen;Torino
+10423;23/01/1997;14;Dairy Products;Gorgonzola Telino;Campinas
+10423;23/01/1997;20;Dairy Products;Raclette Courdavault;Campinas
+10424;23/01/1997;60;Beverages;Steeleye Stout;Montréal
+10424;23/01/1997;49;Beverages;Côte de Blaye;Montréal
+10424;23/01/1997;30;Confections;Scottish Longbreads;Montréal
+10425;24/01/1997;10;Meat/Poultry;Pâté chinois;Toulouse
+10425;24/01/1997;20;Beverages;Lakkalikööri;Toulouse
+10426;27/01/1997;5;Grains/Cereals;Gnocchi di nonna Alice;Barcelona
+10426;27/01/1997;7;Grains/Cereals;Wimmers gute Semmelknödel;Barcelona
+10427;27/01/1997;35;Produce;Tofu;Salzburg
+10428;28/01/1997;20;Seafood;Spegesild;Reggio Emilia
+10429;29/01/1997;40;Confections;Valkoinen suklaa;Cork
+10429;29/01/1997;35;Condiments;Vegie-spread;Cork
+10430;30/01/1997;45;Meat/Poultry;Alice Mutton;Graz
+10430;30/01/1997;50;Confections;Sir Rodney's Scones;Graz
+10430;30/01/1997;30;Grains/Cereals;Gnocchi di nonna Alice;Graz
+10430;30/01/1997;70;Dairy Products;Raclette Courdavault;Graz
+10431;30/01/1997;50;Meat/Poultry;Alice Mutton;Tsawassen
+10431;30/01/1997;50;Seafood;Boston Crab Meat;Tsawassen
+10431;30/01/1997;30;Confections;Zaanse koeken;Tsawassen
+10432;31/01/1997;10;Confections;Gumbär Gummibärchen;Lander
+10432;31/01/1997;40;Meat/Poultry;Tourtière;Lander
+10433;03/02/1997;28;Grains/Cereals;Gnocchi di nonna Alice;Lisboa
+10434;03/02/1997;6;Dairy Products;Queso Cabrales;Bräcke
+10434;03/02/1997;18;Beverages;Lakkalikööri;Bräcke
+10435;04/02/1997;10;Beverages;Chang;London
+10435;04/02/1997;12;Grains/Cereals;Gustaf's Knäckebröd;London
+10435;04/02/1997;10;Dairy Products;Mozzarella di Giovanni;London
+10436;05/02/1997;5;Seafood;Spegesild;Strasbourg
+10436;05/02/1997;40;Grains/Cereals;Gnocchi di nonna Alice;Strasbourg
+10436;05/02/1997;30;Grains/Cereals;Wimmers gute Semmelknödel;Strasbourg
+10436;05/02/1997;24;Beverages;Rhönbräu Klosterbier;Strasbourg
+10437;05/02/1997;15;Meat/Poultry;Perth Pasties;Oulu
+10438;06/02/1997;15;Confections;Teatime Chocolate Biscuits;Münster
+10438;06/02/1997;20;Beverages;Sasquatch Ale;Münster
+10438;06/02/1997;15;Grains/Cereals;Ravioli Angelo;Münster
+10439;07/02/1997;15;Dairy Products;Queso Manchego La Pastora;Montréal
+10439;07/02/1997;16;Confections;Pavlova;Montréal
+10439;07/02/1997;6;Grains/Cereals;Wimmers gute Semmelknödel;Montréal
+10439;07/02/1997;30;Produce;Longlife Tofu;Montréal
+10440;10/02/1997;45;Beverages;Chang;Boise
+10440;10/02/1997;49;Confections;Pavlova;Boise
+10440;10/02/1997;24;Meat/Poultry;Thüringer Rostbratwurst;Boise
+10440;10/02/1997;90;Condiments;Sirop d'érable;Boise
+10441;10/02/1997;50;Confections;Schoggi Schokolade;Anchorage
+10442;11/02/1997;30;Dairy Products;Queso Cabrales;Graz
+10442;11/02/1997;80;Meat/Poultry;Tourtière;Graz
+10442;11/02/1997;60;Condiments;Louisiana Hot Spiced Okra;Graz
+10443;12/02/1997;6;Dairy Products;Queso Cabrales;Reggio Emilia
+10443;12/02/1997;12;Produce;Rössle Sauerkraut;Reggio Emilia
